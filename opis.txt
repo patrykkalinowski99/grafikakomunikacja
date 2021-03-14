@@ -1,0 +1,14 @@
+OPIS KODU - 
+Rysunek 2d przedstawia domek oraz budê dla psa, gdzie w tle pogoda jest pochmurna-deszczowa oraz niebo jest w kolorze granatowym (deszcz jest animowany).
+Ca³y rysunek zosta³ napisany w jêzyku java. Do utworzenia obiektów pos³u¿y³a mi klasa graphics2d. Metody u¿yte w projekcie:
+doDrawing - rysuje kszta³ty typu linie, prostok¹ty i wielok¹ty,
+fillRect - rysune prostok¹ty,
+fillArc - rysuje kszta³y owalne,
+setColor- ustawia kolor obiektu za pomoc¹ kolorów RGB,
+fillPolygon - do utworzenia trójk¹tów,
+setPaint - do kolorowania poprzez u¿ycie koloru s³ownie np. GRAY,
+Random - u¿yta do utworzenia deszczu jako gif,
+paintComponent - zbiera kszta³y do narysowania,
+initUi - tworzy interfejs widoczny dla u¿ytkownika.
+Do utworzenia tego rysunku pos³u¿y³a mi strona https://zetcode.com/gfx/java2d/
+
