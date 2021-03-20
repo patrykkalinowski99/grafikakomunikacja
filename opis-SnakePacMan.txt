@@ -1,0 +1,19 @@
+OPIS KODU - 
+Gra zosta³a napisana w jêzyku java. Mechanika jest ta sama jak w przypadku zwyk³ego snake'a, ale moja gra prezentuje Pac-Mana w odwrotnej mechanice. 
+Gracz skupia siê na jedzeniu duszków, gdzie ka¿dy zjedzony duszek 
+jest umieszczany na koñcu "wê¿owego Pac-Mana". Gra jest uruchamiana w rozdzielczoœci 800x800. 
+G³owa zmienia swoje u³o¿enie zale¿nie od strony, w któr¹ pod¹¿a. Jeœli idziemy w dó³ planszy wtedy g³owa jest skierowana w dó³, a jak w górê to jest skierowana do góry itp.
+
+Metody u¿yte w projekcie:
+initBoard() - wczytuje plansze,
+loadImages() - wczytujê obrazy z foldery resources,
+initGame() - wyznacza start gry, rysuje Pac-Mana i duszka,
+paintComponent() - rysuje wszystkie elementy,
+doDrawing() - rysuje elementy na planszy gdy gra siê rozpocznie,
+gameOver() - opisuje koniec gry, pokazuje dla uzytkownika zawartosc w przypadku przegranej,
+checkGhost() - sprawdza duszka,
+locateGhost() - lokalizuje duszka na planszy,
+move() - wyznacza ruchy gracza, co sie stanie po nacisnieciu odpowiedniego klawisza,
+checkCollision() - sprawdza czy uzytkownik dotknal kranca planszy lub swojego ogonka,
+Random - do pseudolosowych liczb,
+Do utworzenia tej gry pos³u¿y³a mi strona https://zetcode.com/javagames/
