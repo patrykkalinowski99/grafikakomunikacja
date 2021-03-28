@@ -1,0 +1,137 @@
+Rysunek inicja³ów stworzonych za pomoc¹ krzywych Beziere zosta³ wykonany w jêzyku Java.
+Pierwotny rysunek stworzy³em za pomoc¹ strony https://canvature.appspot.com/
+Kod rysunku ze strony na samym dole.
+Funkcje, które zosta³y u¿yte s¹ w wiêkszoœci te same z laboratorium 1, gdzie trzeba by³o stworzyæ rysunek.
+
+
+
+
+Ca³y rysunek ze strony:
+context.moveTo( 503, 436 );
+context.bezierCurveTo( 450, 543, 653, 557, 727, 133 );
+
+context.moveTo( 503, 436 );
+context.bezierCurveTo( 527, 384, 587, 395, 558, 442 );
+
+context.moveTo( 501, 398 );
+context.bezierCurveTo( 567, 340, 612, 429, 558, 442 );
+
+context.moveTo( 501, 398 );
+context.bezierCurveTo( 451, 442, 441, 567, 578, 503 );
+
+context.moveTo( 753, 172 );
+context.bezierCurveTo( 713, 336, 662, 461, 574, 504 );
+
+context.moveTo( 753, 172 );
+context.bezierCurveTo( 774, 75, 972, 63, 887, 229 );
+
+context.moveTo( 746, 346 );
+context.bezierCurveTo( 774, 365, 843, 316, 887, 229 );
+
+context.moveTo( 746, 346 );
+context.bezierCurveTo( 728, 341, 731, 272, 780, 332 );
+
+context.moveTo( 863, 350 );
+context.bezierCurveTo( 825, 364, 808, 364, 780, 332 );
+
+context.moveTo( 863, 350 );
+context.bezierCurveTo( 887, 345, 871, 328, 847, 341 );
+
+context.moveTo( 782, 311 );
+context.bezierCurveTo( 813, 361, 844, 343, 847, 341 );
+
+context.moveTo( 782, 311 );
+context.bezierCurveTo( 743, 269, 704, 313, 730, 352 );
+
+context.moveTo( 905, 240 );
+context.bezierCurveTo( 822, 387, 733, 366, 730, 352 );
+
+context.moveTo( 905, 240 );
+context.bezierCurveTo( 938, 178, 993, 23, 852, 50 );
+
+context.moveTo( 727, 135 );
+context.bezierCurveTo( 735, 86, 828, 52, 852, 50 );
+
+context.moveTo( 1067, 481 );
+context.bezierCurveTo( 1181, 472, 1208, 308, 1298, 63 );
+
+context.moveTo( 1187, 96 );
+context.bezierCurveTo( 1258, 156, 1285, 42, 1298, 63 );
+
+context.moveTo( 1187, 96 );
+context.bezierCurveTo( 1138, 51, 1097, 70, 1087, 109 );
+
+context.moveTo( 1108, 100 );
+context.bezierCurveTo( 1104, 98, 1081, 140, 1087, 109 );
+
+context.moveTo( 1108, 100 );
+context.bezierCurveTo( 1133, 70, 1158, 90, 1175, 106 );
+
+context.moveTo( 1238, 130 );
+context.bezierCurveTo( 1219, 139, 1208, 130, 1175, 106 );
+
+context.moveTo( 1238, 130 );
+context.bezierCurveTo( 1224, 150, 1184, 328, 1120, 416 );
+
+context.moveTo( 1011, 419 );
+context.bezierCurveTo( 1014, 480, 1098, 444, 1120, 416 );
+
+context.moveTo( 1011, 419 );
+context.bezierCurveTo( 1012, 374, 1029, 352, 1047, 354 );
+
+context.moveTo( 1070, 398 );
+context.bezierCurveTo( 1082, 383, 1085, 348, 1044, 354 );
+
+context.moveTo( 1070, 398 );
+context.bezierCurveTo( 1090, 426, 1100, 346, 1060, 346 );
+
+context.moveTo( 996, 403 );
+context.bezierCurveTo( 999, 379, 1008, 340, 1060, 346 );
+
+context.moveTo( 996, 403 );
+context.bezierCurveTo( 999, 379, 968, 491, 1069, 480 );
+
+context.moveTo( 1419, 116 );
+context.bezierCurveTo( 1412, 75, 1316, 247, 1179, 271 );
+
+context.moveTo( 1303, 281 );
+context.bezierCurveTo( 1315, 185, 1147, 270, 1179, 271 );
+
+context.moveTo( 1303, 281 );
+context.bezierCurveTo( 1279, 364, 1265, 389, 1259, 432 );
+
+context.moveTo( 1314, 446 );
+context.bezierCurveTo( 1283, 469, 1255, 479, 1259, 432 );
+
+context.moveTo( 1314, 446 );
+context.bezierCurveTo( 1371, 405, 1365, 387, 1341, 406 );
+
+context.moveTo( 1286, 445 );
+context.bezierCurveTo( 1302, 449, 1318, 429, 1341, 406 );
+
+context.moveTo( 1286, 445 );
+context.bezierCurveTo( 1284, 447, 1267, 424, 1285, 386 );
+
+context.moveTo( 1312, 248 );
+context.bezierCurveTo( 1323, 291, 1297, 342, 1285, 386 );
+
+context.moveTo( 1312, 248 );
+context.bezierCurveTo( 1308, 226, 1221, 191, 1159, 267 );
+
+context.moveTo( 1261, 257 );
+context.bezierCurveTo( 1177, 303, 1148, 279, 1159, 267 );
+
+context.moveTo( 1261, 257 );
+context.bezierCurveTo( 1333, 212, 1324, 201, 1376, 159 );
+
+context.moveTo( 1426, 147 );
+context.bezierCurveTo( 1478, 102, 1420, 117, 1376, 159 );
+
+context.moveTo( 1426, 147 );
+context.bezierCurveTo( 1396, 167, 1409, 190, 1417, 165 );
+
+context.moveTo( 1455, 112 );
+context.bezierCurveTo( 1469, 147, 1428, 143, 1417, 165 );
+
+context.moveTo( 1455, 114 );
+context.bezierCurveTo( 1456, 101, 1435, 94, 1403, 115 );
